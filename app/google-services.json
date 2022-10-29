@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475486902389",
+    "project_id": "kotlininstaclone-7c860",
+    "storage_bucket": "kotlininstaclone-7c860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475486902389:android:ec99d5a8baeef28f8b003c",
+        "android_client_info": {
+          "package_name": "com.hasanali.kotlininstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475486902389-kcbbcmiinqahthehqf7o0phe98ak43b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu5G3hQmqclC_hEMeJO-HLeTzJtZZPQS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475486902389-kcbbcmiinqahthehqf7o0phe98ak43b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
